@@ -1,0 +1,204 @@
+1637939644.512594 - INFO - 
+
+1637939644.513596 - INFO - ====== WebDriver manager ======
+1637939644.597546 - INFO - Current google-chrome version is 96.0.4664
+1637939644.597546 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637939644.763533 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637939904.974376 - INFO - 
+
+1637939904.974376 - INFO - ====== WebDriver manager ======
+1637939905.057330 - INFO - Current google-chrome version is 96.0.4664
+1637939905.058329 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637939905.171294 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637939972.474360 - INFO - 
+
+1637939972.474360 - INFO - ====== WebDriver manager ======
+1637939972.580301 - INFO - Current google-chrome version is 96.0.4664
+1637939972.580301 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637939972.737254 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637939996.095586 - INFO - 
+
+1637939996.097586 - INFO - ====== WebDriver manager ======
+1637939996.180537 - INFO - Current google-chrome version is 96.0.4664
+1637939996.180537 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637939996.294481 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940064.347827 - INFO - 
+
+1637940064.347827 - INFO - ====== WebDriver manager ======
+1637940064.993459 - INFO - Current google-chrome version is 96.0.4664
+1637940064.993459 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940065.136375 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940130.284017 - INFO - 
+
+1637940130.286018 - INFO - ====== WebDriver manager ======
+1637940130.743756 - INFO - Current google-chrome version is 96.0.4664
+1637940130.743756 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940130.877681 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940209.621520 - INFO - 
+
+1637940209.622519 - INFO - ====== WebDriver manager ======
+1637940209.826914 - INFO - Current google-chrome version is 96.0.4664
+1637940209.827913 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940209.985576 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940253.975893 - INFO - 
+
+1637940253.975893 - INFO - ====== WebDriver manager ======
+1637940254.055846 - INFO - Current google-chrome version is 96.0.4664
+1637940254.055846 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940254.180809 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940347.330709 - INFO - 
+
+1637940347.331708 - INFO - ====== WebDriver manager ======
+1637940347.468630 - INFO - Current google-chrome version is 96.0.4664
+1637940347.468630 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940347.686527 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940364.409452 - INFO - 
+
+1637940364.410453 - INFO - ====== WebDriver manager ======
+1637940364.491412 - INFO - Current google-chrome version is 96.0.4664
+1637940364.492413 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940364.613365 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940449.218989 - INFO - 
+
+1637940449.219986 - INFO - ====== WebDriver manager ======
+1637940449.296942 - INFO - Current google-chrome version is 96.0.4664
+1637940449.297943 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940449.417874 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940466.761968 - ERROR - could not convert string to float: 'contact-link'
+1637940528.842666 - INFO - 
+
+1637940528.843666 - INFO - ====== WebDriver manager ======
+1637940528.920621 - INFO - Current google-chrome version is 96.0.4664
+1637940528.921621 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940529.036556 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940548.481656 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637940615.524798 - INFO - 
+
+1637940615.525797 - INFO - ====== WebDriver manager ======
+1637940615.602695 - INFO - Current google-chrome version is 96.0.4664
+1637940615.603693 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940615.716727 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940634.205792 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637940844.376754 - INFO - 
+
+1637940844.376754 - INFO - ====== WebDriver manager ======
+1637940844.462705 - INFO - Current google-chrome version is 96.0.4664
+1637940844.463704 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940844.617775 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940851.886194 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637940891.709520 - INFO - 
+
+1637940891.710534 - INFO - ====== WebDriver manager ======
+1637940891.803468 - INFO - Current google-chrome version is 96.0.4664
+1637940891.804467 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637940891.972371 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637940894.465402 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637941008.791096 - INFO - 
+
+1637941008.791096 - INFO - ====== WebDriver manager ======
+1637941008.896036 - INFO - Current google-chrome version is 96.0.4664
+1637941008.896036 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941009.021964 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941011.502950 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637941040.813208 - INFO - 
+
+1637941040.813208 - INFO - ====== WebDriver manager ======
+1637941040.926143 - INFO - Current google-chrome version is 96.0.4664
+1637941040.926143 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941041.047083 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941048.407375 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637941183.669913 - INFO - 
+
+1637941183.670912 - INFO - ====== WebDriver manager ======
+1637941183.745870 - INFO - Current google-chrome version is 96.0.4664
+1637941183.745870 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941183.901872 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941186.598849 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637941316.403686 - INFO - 
+
+1637941316.403686 - INFO - ====== WebDriver manager ======
+1637941316.488636 - INFO - Current google-chrome version is 96.0.4664
+1637941316.488636 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941316.608644 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941336.022732 - ERROR - could not convert string to float: "//a[@title='Contact Us']"
+1637941376.363014 - INFO - 
+
+1637941376.363014 - INFO - ====== WebDriver manager ======
+1637941376.440969 - INFO - Current google-chrome version is 96.0.4664
+1637941376.440969 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941376.563899 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941395.033778 - ERROR - could not convert string to float: 'contact-link'
+1637941486.492907 - INFO - 
+
+1637941486.492907 - INFO - ====== WebDriver manager ======
+1637941486.570861 - INFO - Current google-chrome version is 96.0.4664
+1637941486.570861 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941486.808876 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941489.259418 - ERROR - could not convert string to float: 'contact-link'
+1637941509.083573 - INFO - 
+
+1637941509.083573 - INFO - ====== WebDriver manager ======
+1637941509.181354 - INFO - Current google-chrome version is 96.0.4664
+1637941509.181354 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941509.303308 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941512.604818 - ERROR - could not convert string to float: 'contact-link'
+1637941549.507658 - INFO - 
+
+1637941549.507658 - INFO - ====== WebDriver manager ======
+1637941549.589521 - INFO - Current google-chrome version is 96.0.4664
+1637941549.589521 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941549.712557 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941552.314325 - ERROR - could not convert string to float: 'contact-link'
+1637941601.500735 - INFO - 
+
+1637941601.501733 - INFO - ====== WebDriver manager ======
+1637941601.653647 - INFO - Current google-chrome version is 96.0.4664
+1637941601.653647 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941601.777581 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941604.414122 - ERROR - could not convert string to float: 'contact-link'
+1637941733.172441 - INFO - 
+
+1637941733.172441 - INFO - ====== WebDriver manager ======
+1637941733.252396 - INFO - Current google-chrome version is 96.0.4664
+1637941733.252396 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941733.510474 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941803.219182 - INFO - 
+
+1637941803.219182 - INFO - ====== WebDriver manager ======
+1637941803.305133 - INFO - Current google-chrome version is 96.0.4664
+1637941803.305133 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941803.620393 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+1637941820.263532 - ERROR - Message: chrome not reachable
+  (Session info: chrome=96.0.4664.45)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F36903+2517251]
+	Ordinal0 [0x00ECF8E1+2095329]
+	Ordinal0 [0x00DD2710+1058576]
+	Ordinal0 [0x00DC76A4+1013412]
+	Ordinal0 [0x00DC7EA8+1015464]
+	Ordinal0 [0x00DC9695+1021589]
+	Ordinal0 [0x00DC3686+996998]
+	Ordinal0 [0x00DD3A60+1063520]
+	Ordinal0 [0x00E25382+1397634]
+	Ordinal0 [0x00E1639B+1336219]
+	Ordinal0 [0x00DF27A7+1189799]
+	Ordinal0 [0x00DF3609+1193481]
+	GetHandleVerifier [0x010C5904+1577972]
+	GetHandleVerifier [0x01170B97+2279047]
+	GetHandleVerifier [0x00FC6D09+534521]
+	GetHandleVerifier [0x00FC5DB9+530601]
+	Ordinal0 [0x00ED4FF9+2117625]
+	Ordinal0 [0x00ED98A8+2136232]
+	Ordinal0 [0x00ED99E2+2136546]
+	Ordinal0 [0x00EE3541+2176321]
+	BaseThreadInitThunk [0x7673FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77107A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77107A6E+238]
+
+1637941941.508174 - INFO - 
+
+1637941941.508174 - INFO - ====== WebDriver manager ======
+1637941941.591116 - INFO - Current google-chrome version is 96.0.4664
+1637941941.591116 - INFO - Get LATEST chromedriver version for 96.0.4664 google-chrome
+1637941941.711142 - INFO - Driver [C:\Users\VOLO GLOBAL\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
