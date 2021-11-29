@@ -7,3 +7,4 @@ def get_driver():
         return webdriver.Chrome(ChromeDriverManager().install())
     except Exception as error:
         raise Exception(error)
+

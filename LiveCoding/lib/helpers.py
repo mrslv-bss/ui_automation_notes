@@ -66,3 +66,8 @@ def wait_for_page(page="", not_page="", timeout=10):
 
 def random_string(symbols_count):
     return ''.join(random.choices(string.ascii_letters + string.digits, k=symbols_count))
+
+
+def write_to_file(path_to_file, written_data):
+    with open(path_to_file, 'w') as f:
+        f.write(written_data)
