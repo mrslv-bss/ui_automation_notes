@@ -10,10 +10,5 @@ def test_sample(get_driver):
     get_driver.find_element(*search_button_loc).click()
 
     export = get_driver.find_elements(*no_results_text_loc)
-    if len(export) <= 0:
-        result = get_driver.find_element(*result_text_loc).text
-        print(result+" \""+product+"\"")  # pytest -s
-    else:
-        print("No results")
-        raise
+    assert len(export) == 0, "No results"
     get_driver.close()
