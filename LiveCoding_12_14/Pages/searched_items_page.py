@@ -2,6 +2,7 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 from Helpers.basic import send_keys, click, get_text, goods_count
 from TestData.test_data import brand
+import time
 
 
 brand_name_field_loc = (By.ID, "Brand")
@@ -21,13 +22,24 @@ def choice_item_brand_checkbox(get_driver):
 
 def compare_results_count(get_driver):
     result_text = get_text(get_driver, items_found_loc).split()
-    print(result_text)
     assert goods_count(get_driver, count_of_goods_loc) == int(result_text[0])
 
 
 def add_to_cart(get_driver):
     click(get_driver, (By.XPATH, "//a[@itemprop='url']"))
     click(get_driver, add_to_cart_loc)
+
+
+def wait_for_changing_result(get_driver):
+    actual_text = get_text(get_driver, items_found_loc).split()
+    main_count = actual_text[0]
+    for k in range(10):
+        result_text = get_text(get_driver, items_found_loc).split()
+        expected_text = result_text[0]
+        if main_count != expected_text:
+            return True
+        time.sleep(1)
+    return False
 
 
 def compare_bag_count(get_driver):
